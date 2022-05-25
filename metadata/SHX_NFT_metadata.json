@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Version",
+      "value": "0.1"
+    },
+    {
+      "trait_type": "Represents",
+      "value": "1 Vote"
+    },
+    {
+      "trait_type": "Slogan",
+      "value": "Learning by doing"
+    }
+  ],
+  "animation_url": "https://bafybeie2chm4r4seiub47w4g7bmqckn2ewpkia45jai53peubcyrwfzcum.ipfs.dweb.link",
+  "name": "Sheinix DAO",
+  "description": "This NFT represents the right to vote proposals in the Sheinix DAO Community."
+}
